@@ -1,0 +1,1 @@
+# Ubuntu 版本为 ubuntu-18.04-desktop-amd64
